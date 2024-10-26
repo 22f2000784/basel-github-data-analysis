@@ -1,0 +1,3 @@
+- The data was scraped using the GitHub REST API, specifically fetching users in Basel with more than 10 followers and extracting their 500 most recently updated repositories.
+- The majority of the repositories created by developers in Basel are written in JavaScript, indicating a focus on web development and JavaScript-based projects in the community.
+- Since 64 users are open to job opportunities, networking events or platforms connecting JavaScript-focused developers could benefit both local employers and developers.
